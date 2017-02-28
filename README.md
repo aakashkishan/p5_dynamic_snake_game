@@ -8,7 +8,7 @@ It is the Snake Game with dynamic prey location using p5.js
   * [License](#license)
 
 ##Screenshot<a name="screenshot"></a>
-![screenshot](snake_game.png)
+![screenshot](snake_game.PNG)
 > A Real Time Snake Game using p5.js, Canvas and Bootstrap.
 
 ##Features<a name="features"></a>
